@@ -7,7 +7,7 @@ public class CPU extends Player {
 	int [][] judge = {{0,0,0},{0,0,0},{0,0,0}};
 	int gu=0,choki=0,pa=0;
 
-
+	
 
 	@Override
 	public void setName() {
